@@ -1,5 +1,6 @@
-
-# Hello World!, I'm Nachiket, a Full Stack Web Developer 👋🏼:
+<img src="./banner.gif"  />
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nachiket Soni</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | React Developer | Node Developer </h3>
 
 ## 👨‍💻 About Me
 I'm a dynamic MERN Stack Developer with expertise in Backend Development, Database Optimization, and Scalable Web Applications. Previously, I developed APIs, integrated real-time features, and optimized system performance at **Innovquant Solution**. Before that, I contributed to dynamic web solutions at **Medorn Ventures**, improving system stability and user experience. Let’s connect and build something innovative! 
