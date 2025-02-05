@@ -2,6 +2,12 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nachiket Soni</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | React Developer | Node Developer </h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake.svg" />
+</picture>
+  
 ## 👨‍💻 About Me
 I'm a dynamic MERN Stack Developer with expertise in Backend Development, Database Optimization, and Scalable Web Applications. Previously, I developed APIs, integrated real-time features, and optimized system performance at **Innovquant Solution**. Before that, I contributed to dynamic web solutions at **Medorn Ventures**, improving system stability and user experience. Let’s connect and build something innovative! 
 
@@ -93,14 +99,11 @@ const techStack = {
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake.svg" />
-</picture>
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/q30xf7s1lenc38r3eqi9jte5i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=q30xf7s1lenc38r3eqi9jte5i&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+<img src="./banner-2.jpg"  />
