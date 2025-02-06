@@ -14,7 +14,7 @@ I'm a dynamic MERN Stack Developer with expertise in Backend Development, Databa
 ### 🚀 Current Focus  
 - 🔧 Developing scalable backend systems and RESTful APIs  
 - 🛠️ Optimizing database performance and real-time data processing  
-- 🎯 Enhancing system stability and bug resolution for web applications  
+- 🎯 Exploring & Improving skills on Blockchain and Other Skills
 - 🌐 Building dynamic and responsive front-end experiences with React  
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
@@ -101,9 +101,9 @@ const techStack = {
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/q30xf7s1lenc38r3eqi9jte5i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=q30xf7s1lenc38r3eqi9jte5i&count=3" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 <img src="./banner-2.jpg"  />
