@@ -25,7 +25,12 @@ I'm a dynamic MERN Stack Developer with expertise in Backend Development, Databa
 const professionalPath = {
   previous: [
     {
-      role: "Backend Developer",
+      role: "Full Stack Developer",
+      company: "Taking Forward",
+      impact: "Built a Franchise Management System with 80+ APIs, payment integrations, performance boosts of 30%, driving growth for 5+ franchises.."
+    },
+    {
+      role: "Full Stack Developer",
       company: "Innovquant Solution",
       impact: "Built 70+ APIs, boosted chat engagement by 40%, and improved DB performance by 30%"
     },
@@ -56,10 +61,10 @@ const techStack = {
   blockchain: ["Solidity"],
   mobile: ["React Native"],
   ui_ux: ["Figma", "Adobe XD"],
-  ai_ml: ["OpenAI", "Prompt Engineering"],
-  tools: ["Git", "Docker", "CI/CD", "Firebase","AWS" ],
-  architecture: ["MVC", "Monolithis Architecture", "Microservices"],
-  programming_language: ["javascript","typescript","python"]
+  tools: ["Git", "Docker", "CI/CD", "Firebase","AWS", "Postman" ],
+  architecture: ["MVC", "Monolithic Architecture", "Microservices"],
+  programming_language: ["javascript","typescript","python"],
+  ai: ["OpenAI", "ChatGPT", "Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot" ]
 };
 ```
 
