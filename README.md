@@ -70,20 +70,20 @@ const techStack = {
 </summary>
 <!-- START_SECTION:github_stats -->
 
-> Last updated: 01/03/2026 at 07:56AM IST
+> Last updated: 02/03/2026 at 07:39AM IST
 
 📈 **Activity Overview**
-- 💻 Total Commits: 2175
+- 💻 Total Commits: 2158
 - ⭐ Total Stars Earned: 0
-- 🔀 Pull Requests: 32
+- 🔀 Pull Requests: 31
 - 📝 Issues Created: 0
-- 📦 Repositories: 74
+- 📦 Repositories: 73
 
 🔝 **Most Used Languages**
 
 - JavaScript: 39 repos
 
-- TypeScript: 12 repos
+- TypeScript: 11 repos
 
 - Python: 6 repos
 
