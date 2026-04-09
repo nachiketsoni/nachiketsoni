@@ -75,14 +75,14 @@ const techStack = {
 </summary>
 <!-- START_SECTION:github_stats -->
 
-> Last updated: 08/04/2026 at 08:01AM IST
+> Last updated: 09/04/2026 at 07:56AM IST
 
 📈 **Activity Overview**
-- 💻 Total Commits: 2217
+- 💻 Total Commits: 2227
 - ⭐ Total Stars Earned: 1
 - 🔀 Pull Requests: 37
 - 📝 Issues Created: 0
-- 📦 Repositories: 76
+- 📦 Repositories: 77
 
 🔝 **Most Used Languages**
 
@@ -99,6 +99,8 @@ const techStack = {
 - EJS: 4 repos
 
 - Solidity: 1 repos
+
+- Astro: 1 repos
  
 <!-- END_SECTION:github_stats -->
 </p>
