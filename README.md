@@ -49,8 +49,8 @@ const professionalPath = {
 ```javascript
 const techStack = {
   full_stack: ["Next"],
-  frontend: ["React", "Material-UI", "Tailwind CSS", "HTML", "CSS"],
-  backend: ["Node", "Express"],
+  frontend: ["React","Astro", "Angular" "Material-UI", "Tailwind CSS", "HTML", "CSS"],
+  backend: ["Node","Nest.js", "Express"],
   database: ["MongoDB", "MySQL", "Oracle"],
   caching: ["Redis"],
   blockchain: ["Solidity"],
@@ -59,7 +59,7 @@ const techStack = {
   tools: ["Git", "Docker", "CI/CD", "Firebase","AWS", "Postman" ],
   architecture: ["MVC", "Monolithic Architecture", "Microservices"],
   programming_language: ["javascript","typescript","python"],
-  ai: ["OpenAI", "ChatGPT", "Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot" ]
+  ai: ["OpenAI", "ChatGPT", "Codex","Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot","Lovable", "Emergent" ]
 };
 ```
 
