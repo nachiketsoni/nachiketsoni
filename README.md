@@ -38,11 +38,6 @@ const professionalPath = {
       role: "MERN Developer",
       company: "Medorn Ventures",
       impact: "Fixed 50+ issues, reduce error rate by 30%, and enhanced system stability"
-    },
-    {
-      role: "Web Development Lead",
-      company: "Google DSC",
-      impact: "Organized 5+ tech events and Lead a team of 20 Members"
     }
   ]
 };
