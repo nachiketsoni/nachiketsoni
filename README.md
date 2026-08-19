@@ -9,7 +9,7 @@
 </picture>
   
 ## 👨‍💻 About Me
-I'm a dynamic MERN Stack Developer with expertise in Backend Development, Database Optimization, and Scalable Web Applications. Previously, I developed APIs, integrated real-time features, and optimized system performance at **Innovquant Solution**. Before that, I contributed to dynamic web solutions at **Medorn Ventures**, improving system stability and user experience. Let’s connect and build something innovative! 
+Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experience, and a focus on building high-quality digital solutions that drive real business impact.
 
 ### 🚀 Current Focus  
 - 🔧 Developing scalable backend systems and RESTful APIs  
@@ -18,30 +18,6 @@ I'm a dynamic MERN Stack Developer with expertise in Backend Development, Databa
 - 🌐 Building dynamic and responsive front-end experiences with React  
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
-
-## 💼 Professional Journey
-
-```typescript
-const professionalPath = {
-  previous: [
-    {
-      role: "Full Stack Developer",
-      company: "Taking Forward",
-      impact: "Built a Franchise Management System with 80+ APIs, payment integrations, performance boosts of 30%, driving growth for 5+ franchises.."
-    },
-    {
-      role: "Full Stack Developer",
-      company: "Innovquant Solution",
-      impact: "Built 70+ APIs, boosted chat engagement by 40%, and improved DB performance by 30%"
-    },
-    {
-      role: "MERN Developer",
-      company: "Medorn Ventures",
-      impact: "Fixed 50+ issues, reduce error rate by 30%, and enhanced system stability"
-    }
-  ]
-};
-
 ```
 
 ## 🛠️ Tech Stack
@@ -49,7 +25,7 @@ const professionalPath = {
 ```javascript
 const techStack = {
   full_stack: ["Next"],
-  frontend: ["React","Astro", "Angular" "Material-UI", "Tailwind CSS", "HTML", "CSS"],
+  frontend: ["React", "Astro", "Angular", "Material-UI", "Tailwind CSS", "HTML", "CSS"],
   backend: ["Node","Nest.js", "Express"],
   database: ["MongoDB", "MySQL", "Oracle"],
   caching: ["Redis"],
@@ -59,7 +35,7 @@ const techStack = {
   tools: ["Git", "Docker", "CI/CD", "Firebase","AWS", "Postman" ],
   architecture: ["MVC", "Monolithic Architecture", "Microservices"],
   programming_language: ["javascript","typescript","python"],
-  ai: ["OpenAI", "ChatGPT", "Codex","Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot","Lovable", "Emergent" ]
+  AI: ["OpenAI", "ChatGPT", "Codex", "Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot","Lovable", "Emergent" ]
 };
 ```
 
