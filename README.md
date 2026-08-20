@@ -18,7 +18,58 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 - 🌐 Building dynamic and responsive front-end experiences with React  
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
-```
+## Work
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**01 · We Won Academy** <sub>Education</sub>   <a href="https://wewonacademy.com">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**02 · Bridgpoint** <sub>Business</sub>   <a href="https://bridgpoint.com">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**03 · Sahi Raste** <sub>Platform</sub>   <a href="https://sahiraste.com">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**04 · Seat Sarthi** <sub>Booking</sub>   <a href="https://seatsarthi.com">↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" valign="top">
+
+**05 · Broyal** <sub>Brand</sub>   <a href="https://broyal.com">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**06 · Dandy Agent** <sub>iOS</sub>   <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&platform=watch">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**07 · Sage Euphoria** <sub>Web</sub>   <a href="https://sageeuphoria.vercel.app">↗</a>
+
+</td>
+<td width="25%" valign="top">
+
+**08 · Bonza On Street** <sub>E-Commerce</sub>   <a href="https://bonza.vercel.app">↗</a>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><sub>08 SELECTED PROJECTS · 2026</sub></p>
+
 
 ## 🛠️ Tech Stack
 
