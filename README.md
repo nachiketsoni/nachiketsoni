@@ -1,7 +1,6 @@
 <img src="./banner.gif"  />
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nachiket Soni</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | React Developer | Node Developer </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nachiketsoni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nachiketsoni/nachiketsoni/output/github-snake-dark.svg" />
