@@ -137,4 +137,4 @@ const techStack = {
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=q30xf7s1lenc38r3eqi9jte5i&count=3" alt="Spotify recently played"  />
   </a>
 </div> -->
-<img src="./banner-2.jpg"  />
+<img src="./banner-3.gif"  />
