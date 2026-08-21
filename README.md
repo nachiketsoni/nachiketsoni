@@ -18,54 +18,8 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
 ## Work
+<table width="100%"> <tr> <td align="center" nowrap><a href="https://wewonacademy.co)"><b>01 · We Won Academy</b></a></td> <td align="center" nowrap><a href="https://victorify.in"><b>02 · Victorify</b></a></td> <td align="center" nowrap><a href="https://bridgpoint.com"><b>03 · Bridgpoint</b></a></td> <td align="center" nowrap><a href="https://sahiraste.com"><b>04 · Sahi Raste</b></a></td> <td align="center" nowrap><a href="https://seatsarthi.com"><b>05 · Seat Sarthi</b></a></td> <td align="center" nowrap><a href="https://broyal.com"><b>06 · Broyal</b></a></td> <td align="center" nowrap><a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch"><b>07 · Dandy Agent</b></a></td> <td align="center" nowrap><a href="https://sageeuphoria.vercel.app"><b>08 · Sage Euphoria</b></a></td> <td align="center" nowrap><a href="https://bonza.vercel.app"><b>09 · Bonza On Street</b></a></td> </tr> </table>
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-**01 · We Won Academy** <sub>Education</sub>   <a href="https://wewonacademy.com">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**02 · Bridgpoint** <sub>Business</sub>   <a href="https://bridgpoint.com">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**03 · Sahi Raste** <sub>Platform</sub>   <a href="https://sahiraste.com">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**04 · Seat Sarthi** <sub>Booking</sub>   <a href="https://seatsarthi.com">↗</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" valign="top">
-
-**05 · Broyal** <sub>Brand</sub>   <a href="https://broyal.com">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**06 · Dandy Agent** <sub>iOS</sub>   <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&platform=watch">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**07 · Sage Euphoria** <sub>Web</sub>   <a href="https://sageeuphoria.vercel.app">↗</a>
-
-</td>
-<td width="25%" valign="top">
-
-**08 · Bonza On Street** <sub>E-Commerce</sub>   <a href="https://bonza.vercel.app">↗</a>
-
-</td>
-</tr>
-</table>
 
 <p align="right"><sub>08 SELECTED PROJECTS · 2026</sub></p>
 
@@ -76,15 +30,15 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 const techStack = {
   full_stack: ["Next"],
   frontend: ["React", "Astro", "Angular", "Material-UI", "Tailwind CSS", "HTML", "CSS"],
-  backend: ["Node","Nest.js", "Express"],
+  backend: ["Node","Nest.js", "Express","Fastify"],
   database: ["MongoDB", "MySQL", "Oracle"],
   caching: ["Redis"],
   blockchain: ["Solidity"],
   mobile: ["React Native"],
   ui_ux: ["Figma", "Adobe XD"],
-  tools: ["Git", "Docker", "CI/CD", "Firebase","AWS", "Postman" ],
+  tools: ["Git", "Docker", "CI/CD", "Firebase", "AWS", "Postman" ],
   architecture: ["MVC", "Monolithic Architecture", "Microservices"],
-  programming_language: ["javascript","typescript","python"],
+  programming_language: ["javascript", "typescript", "python"],
   AI: ["OpenAI", "ChatGPT", "Codex", "Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot","Lovable", "Emergent" ]
 };
 ```
