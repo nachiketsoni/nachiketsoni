@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<defs>
+  <linearGradient id="g-portfolio-dark" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#5ce1ff"><animate attributeName="stop-color" dur="3.6s" repeatCount="indefinite"
+      values="#5ce1ff;#5c7bff;#5ce1ff"/></stop>
+    <stop offset="1" stop-color="#5c7bff"><animate attributeName="stop-color" dur="3.6s" repeatCount="indefinite"
+      values="#5c7bff;#5ce1ff;#5c7bff"/></stop>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5"
+      dur="5s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="blur-portfolio-dark" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="7"/>
+  </filter>
+  <clipPath id="clip-portfolio-dark"><rect x="2" y="2" width="296" height="68" rx="20"/></clipPath>
+  <linearGradient id="shine-portfolio-dark" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect x="2" y="2" width="296" height="68" rx="20" fill="url(#g-portfolio-dark)" opacity="0.55"
+  filter="url(#blur-portfolio-dark)">
+  <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite"
+    values="0.33;0.55;0.33"/>
+</rect>
+
+<rect x="2" y="2" width="296" height="68" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="2.75" y="2.75" width="294.5" height="66.5" rx="19" fill="none"
+  stroke="url(#g-portfolio-dark)" stroke-width="1.6"/>
+
+<g clip-path="url(#clip-portfolio-dark)">
+  <rect x="-300" y="0" width="105" height="72" fill="url(#shine-portfolio-dark)" transform="skewX(-18)">
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0 0; 720 0; 720 0" keyTimes="0;0.6;1" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<g transform="translate(20,20)">
+  <circle cx="14" cy="14" r="16" fill="#0d1117" opacity="0"/>
+  <circle cx="14" cy="16" r="8" fill="none" stroke="#e6edf3" stroke-width="1.6"/><path d="M6 16h16M14 8c2.4 2.2 2.4 13.8 0 16M14 8c-2.4 2.2-2.4 13.8 0 16" fill="none" stroke="#e6edf3" stroke-width="1.3"/>
+</g>
+<text x="60" y="35" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15"
+  font-weight="600" fill="#e6edf3">Portfolio</text>
+<text x="60" y="52" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5"
+  fill="#9198a1">tap to open</text>
+</svg>

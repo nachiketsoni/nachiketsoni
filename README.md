@@ -17,6 +17,41 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 - 🌐 Building dynamic and responsive front-end experiences with React  
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
+## 📫 Let's Connect
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:nachiketsoni.dev@gmail.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/badge-email-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/badge-email-light.svg">
+          <img src="./logos/badge-email-light.svg" width="260" alt="Email">
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nachiketsoni.vercel.app">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/badge-portfolio-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/badge-portfolio-light.svg">
+          <img src="./logos/badge-portfolio-light.svg" width="260" alt="Portfolio">
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/nachiket-soni">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/badge-linkedin-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/badge-linkedin-light.svg">
+          <img src="./logos/badge-linkedin-light.svg" width="260" alt="LinkedIn">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## 💼 Work
 
 <picture>
