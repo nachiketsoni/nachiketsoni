@@ -22,22 +22,22 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="https://wewonacademy.co" title="We Won Academy">
+      <a href="https://wewonacademy.com" title="We Won Academy">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/wewon.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/wewon.png">
-          <img src="./logos/light/wewon.png" width="180" alt="We Won Academy">
+          <img src="./logos/light/wewon.png" width="264" alt="We Won Academy">
         </picture>
       </a>
       <br>
-      <a href="https://wewonacademy.co"><b>We Won Academy</b></a>
+      <a href="https://wewonacademy.com"><b>We Won Academy</b></a>
     </td>
     <td align="center" valign="top">
       <a href="https://victorify.in" title="Victorify">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/victorify.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/victorify.png">
-          <img src="./logos/light/victorify.png" width="180" alt="Victorify">
+          <img src="./logos/light/victorify.png" width="264" alt="Victorify">
         </picture>
       </a>
       <br>
@@ -48,7 +48,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bridgpoint.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/bridgpoint.png">
-          <img src="./logos/light/bridgpoint.png" width="180" alt="Bridgpoint">
+          <img src="./logos/light/bridgpoint.png" width="264" alt="Bridgpoint">
         </picture>
       </a>
       <br>
@@ -61,7 +61,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sahiraste.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/sahiraste.png">
-          <img src="./logos/light/sahiraste.png" width="180" alt="Sahi Raste">
+          <img src="./logos/light/sahiraste.png" width="264" alt="Sahi Raste">
         </picture>
       </a>
       <br>
@@ -72,7 +72,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/seatsarthi.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/seatsarthi.png">
-          <img src="./logos/light/seatsarthi.png" width="180" alt="Seat Sarthi">
+          <img src="./logos/light/seatsarthi.png" width="264" alt="Seat Sarthi">
         </picture>
       </a>
       <br>
@@ -83,7 +83,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/broyal.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/broyal.png">
-          <img src="./logos/light/broyal.png" width="180" alt="Broyal">
+          <img src="./logos/light/broyal.png" width="264" alt="Broyal">
         </picture>
       </a>
       <br>
@@ -96,7 +96,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/dandy.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/dandy.png">
-          <img src="./logos/light/dandy.png" width="180" alt="Dandy Agent">
+          <img src="./logos/light/dandy.png" width="264" alt="Dandy Agent">
         </picture>
       </a>
       <br>
@@ -107,7 +107,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sageeuphoria.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/sageeuphoria.png">
-          <img src="./logos/light/sageeuphoria.png" width="180" alt="Sage Euphoria">
+          <img src="./logos/light/sageeuphoria.png" width="264" alt="Sage Euphoria">
         </picture>
       </a>
       <br>
@@ -118,7 +118,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bonza.png">
           <source media="(prefers-color-scheme: light)" srcset="./logos/light/bonza.png">
-          <img src="./logos/light/bonza.png" width="180" alt="Bonza On Street">
+          <img src="./logos/light/bonza.png" width="264" alt="Bonza On Street">
         </picture>
       </a>
       <br>
