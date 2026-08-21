@@ -19,76 +19,110 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 
 ## 💼 Work
 
-<p align="left"><sub>Selected products I've built and shipped — click any logo to visit.</sub></p>
-
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://wewonacademy.co" title="We Won Academy"><img src="./logos/wewon.png" width="240" alt="We Won Academy"></a>
+    <td align="center" valign="top">
+      <a href="https://wewonacademy.co" title="We Won Academy">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/wewon.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/wewon.png">
+          <img src="./logos/light/wewon.png" width="180" alt="We Won Academy">
+        </picture>
+      </a>
       <br>
       <a href="https://wewonacademy.co"><b>We Won Academy</b></a>
-      <br>
-      <sub>01 · wewonacademy.co</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://victorify.in" title="Victorify"><img src="./logos/victorify.png" width="240" alt="Victorify"></a>
+    <td align="center" valign="top">
+      <a href="https://victorify.in" title="Victorify">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/victorify.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/victorify.png">
+          <img src="./logos/light/victorify.png" width="180" alt="Victorify">
+        </picture>
+      </a>
       <br>
       <a href="https://victorify.in"><b>Victorify</b></a>
-      <br>
-      <sub>02 · victorify.in</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://bridgpoint.com" title="Bridgpoint"><img src="./logos/bridgpoint.png" width="240" alt="Bridgpoint"></a>
+    <td align="center" valign="top">
+      <a href="https://bridgpoint.com" title="Bridgpoint">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bridgpoint.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/bridgpoint.png">
+          <img src="./logos/light/bridgpoint.png" width="180" alt="Bridgpoint">
+        </picture>
+      </a>
       <br>
       <a href="https://bridgpoint.com"><b>Bridgpoint</b></a>
-      <br>
-      <sub>03 · bridgpoint.com</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://sahiraste.com" title="Sahi Raste"><img src="./logos/sahiraste.png" width="240" alt="Sahi Raste"></a>
+    <td align="center" valign="top">
+      <a href="https://sahiraste.com" title="Sahi Raste">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sahiraste.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/sahiraste.png">
+          <img src="./logos/light/sahiraste.png" width="180" alt="Sahi Raste">
+        </picture>
+      </a>
       <br>
       <a href="https://sahiraste.com"><b>Sahi Raste</b></a>
-      <br>
-      <sub>04 · sahiraste.com</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://seatsarthi.com" title="Seat Sarthi"><img src="./logos/seatsarthi.png" width="240" alt="Seat Sarthi"></a>
+    <td align="center" valign="top">
+      <a href="https://seatsarthi.com" title="Seat Sarthi">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/seatsarthi.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/seatsarthi.png">
+          <img src="./logos/light/seatsarthi.png" width="180" alt="Seat Sarthi">
+        </picture>
+      </a>
       <br>
       <a href="https://seatsarthi.com"><b>Seat Sarthi</b></a>
-      <br>
-      <sub>05 · seatsarthi.com</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://broyal.com" title="Broyal"><img src="./logos/broyal.png" width="240" alt="Broyal"></a>
+    <td align="center" valign="top">
+      <a href="https://broyal.com" title="Broyal">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/broyal.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/broyal.png">
+          <img src="./logos/light/broyal.png" width="180" alt="Broyal">
+        </picture>
+      </a>
       <br>
       <a href="https://broyal.com"><b>Broyal</b></a>
-      <br>
-      <sub>06 · broyal.com</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch" title="Dandy Agent"><img src="./logos/dandy.png" width="240" alt="Dandy Agent"></a>
+    <td align="center" valign="top">
+      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch" title="Dandy Agent">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/dandy.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/dandy.png">
+          <img src="./logos/light/dandy.png" width="180" alt="Dandy Agent">
+        </picture>
+      </a>
       <br>
       <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch"><b>Dandy Agent</b></a>
-      <br>
-      <sub>07 · App Store · iOS</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://sageeuphoria.vercel.app" title="Sage Euphoria"><img src="./logos/sageeuphoria.png" width="240" alt="Sage Euphoria"></a>
+    <td align="center" valign="top">
+      <a href="https://sageeuphoria.vercel.app" title="Sage Euphoria">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sageeuphoria.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/sageeuphoria.png">
+          <img src="./logos/light/sageeuphoria.png" width="180" alt="Sage Euphoria">
+        </picture>
+      </a>
       <br>
       <a href="https://sageeuphoria.vercel.app"><b>Sage Euphoria</b></a>
-      <br>
-      <sub>08 · sageeuphoria.vercel.app</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://bonza.vercel.app" title="Bonza On Street"><img src="./logos/bonza.png" width="240" alt="Bonza On Street"></a>
+    <td align="center" valign="top">
+      <a href="https://bonza.vercel.app" title="Bonza On Street">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bonza.png">
+          <source media="(prefers-color-scheme: light)" srcset="./logos/light/bonza.png">
+          <img src="./logos/light/bonza.png" width="180" alt="Bonza On Street">
+        </picture>
+      </a>
       <br>
       <a href="https://bonza.vercel.app"><b>Bonza On Street</b></a>
-      <br>
-      <sub>09 · bonza.vercel.app</sub>
     </td>
   </tr>
 </table>
