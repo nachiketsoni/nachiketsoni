@@ -17,9 +17,81 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 - 🌐 Building dynamic and responsive front-end experiences with React  
 - 📊 Learning **System Design** to architect scalable and efficient solutions
 
-## Work
-<table width="100%"> <tr> <td align="center" nowrap><a href="https://wewonacademy.co)"><b>01 · We Won Academy</b></a></td> <td align="center" nowrap><a href="https://victorify.in"><b>02 · Victorify</b></a></td> <td align="center" nowrap><a href="https://bridgpoint.com"><b>03 · Bridgpoint</b></a></td> <td align="center" nowrap><a href="https://sahiraste.com"><b>04 · Sahi Raste</b></a></td> <td align="center" nowrap><a href="https://seatsarthi.com"><b>05 · Seat Sarthi</b></a></td> <td align="center" nowrap><a href="https://broyal.com"><b>06 · Broyal</b></a></td> <td align="center" nowrap><a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch"><b>07 · Dandy Agent</b></a></td> <td align="center" nowrap><a href="https://sageeuphoria.vercel.app"><b>08 · Sage Euphoria</b></a></td> <td align="center" nowrap><a href="https://bonza.vercel.app"><b>09 · Bonza On Street</b></a></td> </tr> </table>
+## 💼 Work
 
+<p align="left"><sub>Selected products I've built and shipped — click any logo to visit.</sub></p>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://wewonacademy.co" title="We Won Academy"><img src="./logos/wewon.png" width="240" alt="We Won Academy"></a>
+      <br>
+      <a href="https://wewonacademy.co"><b>We Won Academy</b></a>
+      <br>
+      <sub>01 · wewonacademy.co</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://victorify.in" title="Victorify"><img src="./logos/victorify.png" width="240" alt="Victorify"></a>
+      <br>
+      <a href="https://victorify.in"><b>Victorify</b></a>
+      <br>
+      <sub>02 · victorify.in</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://bridgpoint.com" title="Bridgpoint"><img src="./logos/bridgpoint.png" width="240" alt="Bridgpoint"></a>
+      <br>
+      <a href="https://bridgpoint.com"><b>Bridgpoint</b></a>
+      <br>
+      <sub>03 · bridgpoint.com</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://sahiraste.com" title="Sahi Raste"><img src="./logos/sahiraste.png" width="240" alt="Sahi Raste"></a>
+      <br>
+      <a href="https://sahiraste.com"><b>Sahi Raste</b></a>
+      <br>
+      <sub>04 · sahiraste.com</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://seatsarthi.com" title="Seat Sarthi"><img src="./logos/seatsarthi.png" width="240" alt="Seat Sarthi"></a>
+      <br>
+      <a href="https://seatsarthi.com"><b>Seat Sarthi</b></a>
+      <br>
+      <sub>05 · seatsarthi.com</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://broyal.com" title="Broyal"><img src="./logos/broyal.png" width="240" alt="Broyal"></a>
+      <br>
+      <a href="https://broyal.com"><b>Broyal</b></a>
+      <br>
+      <sub>06 · broyal.com</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch" title="Dandy Agent"><img src="./logos/dandy.png" width="240" alt="Dandy Agent"></a>
+      <br>
+      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch"><b>Dandy Agent</b></a>
+      <br>
+      <sub>07 · App Store · iOS</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://sageeuphoria.vercel.app" title="Sage Euphoria"><img src="./logos/sageeuphoria.png" width="240" alt="Sage Euphoria"></a>
+      <br>
+      <a href="https://sageeuphoria.vercel.app"><b>Sage Euphoria</b></a>
+      <br>
+      <sub>08 · sageeuphoria.vercel.app</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://bonza.vercel.app" title="Bonza On Street"><img src="./logos/bonza.png" width="240" alt="Bonza On Street"></a>
+      <br>
+      <a href="https://bonza.vercel.app"><b>Bonza On Street</b></a>
+      <br>
+      <sub>09 · bonza.vercel.app</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="right"><sub>09 SELECTED PROJECTS · 2026</sub></p>
 
