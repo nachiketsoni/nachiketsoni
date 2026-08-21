@@ -19,113 +19,15 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 
 ## 💼 Work
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://wewonacademy.com" title="We Won Academy">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/wewon.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/wewon.png">
-          <img src="./logos/light/wewon.png" width="264" alt="We Won Academy">
-        </picture>
-      </a>
-      <br>
-      <a href="https://wewonacademy.com"><b>We Won Academy</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://victorify.in" title="Victorify">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/victorify.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/victorify.png">
-          <img src="./logos/light/victorify.png" width="264" alt="Victorify">
-        </picture>
-      </a>
-      <br>
-      <a href="https://victorify.in"><b>Victorify</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://bridgpoint.com" title="Bridgpoint">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bridgpoint.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/bridgpoint.png">
-          <img src="./logos/light/bridgpoint.png" width="264" alt="Bridgpoint">
-        </picture>
-      </a>
-      <br>
-      <a href="https://bridgpoint.com"><b>Bridgpoint</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://sahiraste.com" title="Sahi Raste">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sahiraste.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/sahiraste.png">
-          <img src="./logos/light/sahiraste.png" width="264" alt="Sahi Raste">
-        </picture>
-      </a>
-      <br>
-      <a href="https://sahiraste.com"><b>Sahi Raste</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://seatsarthi.com" title="Seat Sarthi">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/seatsarthi.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/seatsarthi.png">
-          <img src="./logos/light/seatsarthi.png" width="264" alt="Seat Sarthi">
-        </picture>
-      </a>
-      <br>
-      <a href="https://seatsarthi.com"><b>Seat Sarthi</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://broyal.com" title="Broyal">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/broyal.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/broyal.png">
-          <img src="./logos/light/broyal.png" width="264" alt="Broyal">
-        </picture>
-      </a>
-      <br>
-      <a href="https://broyal.com"><b>Broyal</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch" title="Dandy Agent">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/dandy.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/dandy.png">
-          <img src="./logos/light/dandy.png" width="264" alt="Dandy Agent">
-        </picture>
-      </a>
-      <br>
-      <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch"><b>Dandy Agent</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://sageeuphoria.vercel.app" title="Sage Euphoria">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/sageeuphoria.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/sageeuphoria.png">
-          <img src="./logos/light/sageeuphoria.png" width="264" alt="Sage Euphoria">
-        </picture>
-      </a>
-      <br>
-      <a href="https://sageeuphoria.vercel.app"><b>Sage Euphoria</b></a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://bonza.vercel.app" title="Bonza On Street">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./logos/dark/bonza.png">
-          <source media="(prefers-color-scheme: light)" srcset="./logos/light/bonza.png">
-          <img src="./logos/light/bonza.png" width="264" alt="Bonza On Street">
-        </picture>
-      </a>
-      <br>
-      <a href="https://bonza.vercel.app"><b>Bonza On Street</b></a>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logos/marquee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./logos/marquee-light.svg">
+  <img src="./logos/marquee-light.svg" width="880" alt="Scrolling logos of selected work: We Won Academy, Victorify, Bridgpoint, Sahi Raste, Seat Sarthi, Broyal, Dandy Agent, Sage Euphoria, Bonza On Street">
+</picture>
+
+<p align="center"><sub>
+  <a href="https://wewonacademy.co">We&nbsp;Won&nbsp;Academy</a> · <a href="https://victorify.in">Victorify</a> · <a href="https://bridgpoint.com">Bridgpoint</a> · <a href="https://sahiraste.com">Sahi&nbsp;Raste</a> · <a href="https://seatsarthi.com">Seat&nbsp;Sarthi</a> · <a href="https://broyal.com">Broyal</a> · <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch">Dandy&nbsp;Agent</a> · <a href="https://sageeuphoria.vercel.app">Sage&nbsp;Euphoria</a> · <a href="https://bonza.vercel.app">Bonza&nbsp;On&nbsp;Street</a>
+</sub></p>
 
 <p align="right"><sub>09 SELECTED PROJECTS · 2026</sub></p>
 
