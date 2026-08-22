@@ -61,7 +61,7 @@ Full Stack Developer with 10+ projects delivered, 3+ years of hands-on experienc
 </picture>
 
 <p align="center"><sub>
-  <a href="https://wewonacademy.co">We&nbsp;Won&nbsp;Academy</a> · <a href="https://victorify.in">Victorify</a> · <a href="https://bridgpoint.com">Bridgpoint</a> · <a href="https://sahiraste.com">Sahi&nbsp;Raste</a> · <a href="https://seatsarthi.com">Seat&nbsp;Sarthi</a> · <a href="https://broyal.com">Broyal</a> · <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch">Dandy&nbsp;Agent</a> · <a href="https://sageeuphoria.vercel.app">Sage&nbsp;Euphoria</a> · <a href="https://bonza.vercel.app">Bonza&nbsp;On&nbsp;Street</a>
+  <a href="https://wewonacademy.com">We&nbsp;Won&nbsp;Academy</a> · <a href="https://victorify.in">Victorify</a> · <a href="https://bridgpoint.com">Bridgpoint</a> · <a href="https://sahiraste.com">Sahi&nbsp;Raste</a> · <a href="https://seatsarthi.com">Seat&nbsp;Sarthi</a> · <a href="https://broyal.com">Broyal</a> · <a href="https://apps.apple.com/in/app/dandy-agents/id6502832613?l=hi&amp;platform=watch">Dandy&nbsp;Agent</a> · <a href="https://sageeuphoria.vercel.app">Sage&nbsp;Euphoria</a> · <a href="https://bonza.vercel.app">Bonza&nbsp;On&nbsp;Street</a>
 </sub></p>
 
 <p align="right"><sub>09 SELECTED PROJECTS · 2026</sub></p>
