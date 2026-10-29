@@ -80,7 +80,6 @@ const techStack = {
   mobile: ["React Native"],
   ui_ux: ["Figma", "Adobe XD"],
   tools: ["Git", "Docker", "CI/CD", "Firebase", "AWS", "Postman" ],
-  architecture: ["MVC", "Monolithic Architecture", "Microservices"],
   programming_language: ["javascript", "typescript", "python"],
   AI: ["OpenAI", "ChatGPT", "Codex", "Claude Code", "Antigravity", "Gemini CLI", "GitHub Copilot","Lovable", "Emergent" ]
 };
